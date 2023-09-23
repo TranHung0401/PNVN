@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"sasstocss": "sass --watch templates/sass/main.scss templates/css/style.css"
+	},
+	"devDependencies": {
+		"sass": "^1.62.1"
+	}
+}
